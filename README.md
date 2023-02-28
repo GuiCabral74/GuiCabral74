@@ -46,8 +46,8 @@ Passionate about technology, always looking for new skills.
 
 
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b> -->
 
 
 
-<a href="http://www.github.com/GuiCabral74"><img src="https://activity-graph.herokuapp.com/graph?username=GuiCabral74&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/GuiCabral74"><img src="https://activity-graph.herokuapp.com/graph?username=GuiCabral74&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
