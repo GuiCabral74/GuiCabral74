@@ -7,10 +7,10 @@ Front End Developer
 Passionate about technology, always looking for new skills.
 
 * 🌍  I'm based in Brasília-DF Brazil
-* 🖥️  See my portfolio at <a href="http://guilhermecabraldev.web.app" target="_blank">My Portfolio</a>
 * ✉️  You can contact me at <a href = "mailto:guilhermerocabral@gmail.com" target="_blank">guilhermerocabral@hotmail.com</a>
 * 🧠  I'm learning Angular and Python
 * 🤝  I'm open to collaborating on anything you think i can do.
+<!-- * 🖥️  See my portfolio at <a href="http://guilhermecabraldev.web.app" target="_blank">My Portfolio</a> -->
 
 
 
