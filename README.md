@@ -29,6 +29,7 @@ Passionate about technology, always looking for new skills.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="Wordpress" /></a>
 </p>
 
 ### Socials
